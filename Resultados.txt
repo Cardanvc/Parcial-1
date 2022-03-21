@@ -1,0 +1,12 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: PrimerParcial, configuración: Debug Any CPU ------
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(33,32,33,45): error CS0246: El nombre del tipo o del espacio de nombres 'Departamentos' no se encontró (¿falta una directiva using o una referencia de ensamblado?)
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(37,17,37,29): error CS0103: El nombre 'departamento' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(41,13,41,34): error CS0103: El nombre 'comboBoxDepartamentos' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(41,48,41,60): error CS0103: El nombre 'departamento' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(42,13,42,34): error CS0103: El nombre 'comboBoxDepartamentos' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(43,13,43,34): error CS0103: El nombre 'comboBoxDepartamentos' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(56,32,56,49): error CS0246: El nombre del tipo o del espacio de nombres 'ClimaDepartamento' no se encontró (¿falta una directiva using o una referencia de ensamblado?)
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(59,37,59,49): error CS0103: El nombre 'departamento' no existe en el contexto actual
+1>C:\Users\ASUSA\Desktop\PrimerParcial-master\DataFutbolistas.cs(63,17,63,25): error CS0103: El nombre 'climaDep' no existe en el contexto actual
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
